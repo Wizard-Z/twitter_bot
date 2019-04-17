@@ -1,5 +1,6 @@
 # twitter_bot
-Dataset from
+Dataset used for visualization.
+
 - The Fake Project dataset: A dataset of Twitter spambots and genuine accounts.
 Released by Institute of Informatics and Telematics of
 Italian National Research Council (CNR)
